@@ -26,11 +26,6 @@
       "static/chunks/main-app.js",
       "static/chunks/app/index-4/page.js"
     ],
-    "/service-details/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/service-details/page.js"
-    ],
     "/service/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
