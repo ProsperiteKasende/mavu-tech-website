@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# MavuTech Website
 
-## Getting Started
+**Live Site:** https://www.mavutech.com/
 
-First, run the development server:
+## Overview
+This project is a modern, responsive website for MavuTech, a software development company. The site was built to showcase services, communicate technical expertise, and present a clean, professional digital presence.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Developed as part of a small team, the project focused on delivering a scalable front-end structure and a polished user experience aligned with industry standards.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## My Contributions
+- Collaborated with a small development team to build and customize the website  
+- Contributed to overall layout design and UI implementation across multiple pages  
+- Generated and structured website content to align with a technical brand voice  
+- Implemented and worked with React routing for multi-page navigation  
+- Heavily customized an Envato template to meet project requirements  
+- Assisted in creating responsive layouts for various screen sizes  
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Key Features
+- Multi-page navigation using React routing  
+- Fully responsive design for mobile, tablet, and desktop  
+- Clean, modern UI tailored for a tech-focused audience  
+- Component-based architecture for maintainability  
+- Structured content highlighting services and expertise  
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Notes
+- This project was developed as part of a team; contributions listed above reflect my individual work  
+- Built on an Envato template that was significantly customized in structure, layout, and content 
